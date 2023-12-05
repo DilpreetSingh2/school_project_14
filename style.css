@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+    color: green;
+    font-size: 25;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+
+    
+.pika{
+    text-align: left;
+}
+
+.ge{
+    color: green;
+}
